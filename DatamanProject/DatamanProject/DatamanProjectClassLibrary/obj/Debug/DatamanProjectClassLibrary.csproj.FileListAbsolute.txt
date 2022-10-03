@@ -1,0 +1,12 @@
+C:\Users\snowt\source\repos\DatamanProject\DatamanProjectClassLibrary\bin\Debug\DatamanProjectClassLibrary.dll
+C:\Users\snowt\source\repos\DatamanProject\DatamanProjectClassLibrary\bin\Debug\DatamanProjectClassLibrary.pdb
+C:\Users\snowt\source\repos\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.csproj.AssemblyReference.cache
+C:\Users\snowt\source\repos\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\snowt\source\repos\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.dll
+C:\Users\snowt\source\repos\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.pdb
+C:\Users\mclaughc1461\Desktop\DatamanProject\DatamanProject\DatamanProjectClassLibrary\bin\Debug\DatamanProjectClassLibrary.dll
+C:\Users\mclaughc1461\Desktop\DatamanProject\DatamanProject\DatamanProjectClassLibrary\bin\Debug\DatamanProjectClassLibrary.pdb
+C:\Users\mclaughc1461\Desktop\DatamanProject\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.csproj.AssemblyReference.cache
+C:\Users\mclaughc1461\Desktop\DatamanProject\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mclaughc1461\Desktop\DatamanProject\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.dll
+C:\Users\mclaughc1461\Desktop\DatamanProject\DatamanProject\DatamanProjectClassLibrary\obj\Debug\DatamanProjectClassLibrary.pdb
